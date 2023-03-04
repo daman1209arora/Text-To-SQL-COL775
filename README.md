@@ -1,3 +1,5 @@
+Download [link](https://drive.google.com/file/d/1t4O8UC4vGs1OuIo9H2AprB7OPrMEVZO7/view?usp=sharing) for the database
+
 The `train.csv` and `val.csv` files contain the training and dev 
 data for this assignment. Each query is associated with a db_id.
 
@@ -16,3 +18,4 @@ use the following command:
 
 An example of a <GOLD_FILE> and <PRED_FILE> is given in the 
 evaluator folder.
+
